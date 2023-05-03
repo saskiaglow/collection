@@ -75,7 +75,7 @@ button{
 	font-size: 16px;
 	font-weight: 200;
 	animation-name: fade-in;
-	animation-duration: 25s;
+	animation-duration: 30s;
 	display: flex;
 	align-content: center;
 	max-width: 75vw;
